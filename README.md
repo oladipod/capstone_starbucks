@@ -21,5 +21,4 @@ When companies are able to send the right discounts to each customer, based on t
 ### Installation
 Python/ Anconda should be installed
 
-The technical report related to the code can be found in the post available here.
-
+The technical report related to the code can be found in the post available <a href=https://medium.com/@oladipodracheal/how-offers-and-promotions-influence-starbucks-sales-eae45624cc3d>here</a>  
